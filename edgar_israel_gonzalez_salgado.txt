@@ -1,0 +1,14 @@
+
+EDGAR ISRAEL GONZALEZ SALGADO
+PROGRAMADOR FULL STACK
+Soy una persona honesta, responsable desarrollo sistemas en diversas plataformas operativas y lenguajes de programación, me gusta participar en proyectos importantes que impliquen un gran reto.
+Las principales tecnologías y lenguajes de programación utilizados durante mi experiencia:
+Bases de datos: MySQL, SQL Server. T-SQL
+Frontend: Frontend: HTML5, CSS3: Maquetación, Responsive Web Design, Javascript (Diferentes librerías), Angular 8, Angular 12
+Java SE: JFlex, Cup, Automatización de procesos, desarrollo móvil Android.
+Java EE: Spring boot (Hibernate, JPA, Maven, Spring Security), servicios web (REST, SOAP)
+Microsoft .NET: ASP.NET MVC, Entity Framework, web services, SQL Reporting Services, Aplicaciones de escritorio C#, VB, Automatización de procesos o tareas, Procesos SSIS ETLs, desarrollo móvil Xamarin Forms.
+PHP: Uso de diferentes framework. Web services (SOAP, REST), CMS: Wordpress.
+Control de versiones: Git. (Manejo de GitLab, GitKraken)
+
+más informacion en: https://edgarisrael1992.com/
