@@ -1082,9 +1082,27 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	font-size:17px;
 }
 
+/**************************CERTIFICADOS***************************/
 
+.proPic{
+    text-align:center;
+}
 
+.certsRow{
+    margin-top:25px;
+}
 
+.certBox{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.certImg{
+    width:140px;      /* tamaño uniforme */
+    height:140px;     /* caja fija */
+    object-fit:contain; /* respeta proporción */
+}
 
 /*----------------------------------------------------
  12. Footer Style
