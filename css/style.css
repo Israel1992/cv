@@ -1099,8 +1099,8 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 }
 
 .certImg{
-    width:140px;      /* tamaño uniforme */
-    height:140px;     /* caja fija */
+    width:120px;      /* tamaño uniforme */
+    height:120px;     /* caja fija */
     object-fit:contain; /* respeta proporción */
 }
 
